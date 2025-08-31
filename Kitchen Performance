@@ -1,0 +1,42 @@
+# 🍴 Kitchen Performance Dashboard – Power BI
+
+## 📊 Overview
+This project analyzes **kitchen performance for October 2022** using **Power BI**.  
+The dashboard provides insights into:
+- Daily consumption by item
+- Stock quantities
+- Turnover categories
+- Inventory turnover and balance %
+- Recommendations based on high-risk items and daily variance
+
+---
+
+## 🗂 Files
+- [`Kitchen_Reports_October_2022_PowerBI.xlsx`](https://www.kaggle.com/datasets/🔗-حط-لينك-الكاجل-هنا) → Dataset used  
+![Dashboard Screenshot](Screenshot.png)
+
+*(Note: `.pbix` file is not included — this repo focuses on dataset + dashboard preview for portfolio purposes.)*
+
+---
+
+## 🚀 How to Use
+1. Download the dataset from Kaggle.  
+2. Load it into **Power BI Desktop**.  
+3. Rebuild or connect to the visuals as per the dataset.  
+4. Explore the dashboard to analyze performance.  
+
+---
+
+## 📌 Insights
+- **High-Risk Items**: Goat Meat, Beef, Milk, and Nescafe show the highest consumption and must be closely monitored and restocked regularly.  
+- **Daily Variance**: Consumption fluctuates sharply (56 vs 623 units/day). A balanced distribution plan is required to stabilize usage.  
+
+---
+
+## 🖼 Dashboard Preview
+![Dashboard Screenshot](Screenshot.png)
+
+---
+
+## 🏷 Tags
+`Power BI` `Dashboard` `Inventory Analysis` `Kitchen Performance` `Data Visualization`
