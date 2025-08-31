@@ -41,7 +41,8 @@ Additionally:
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](Screenshot.png)
+<img width="1333" height="752" alt="dashboard png (2)" src="https://github.com/user-attachments/assets/28015056-0f69-4c30-b309-c7a2e871ac95" />
+
 
 ---
 
